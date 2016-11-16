@@ -1,3 +1,3 @@
 ﻿  AddingCppGitHub.cpp
-c:\users\donald's toy\documents\github\addingcppgithub\addingcppgithub\addingcppgithub\addingcppgithub.cpp(14): error C4700: uninitialized local variable 'a' used
-c:\users\donald's toy\documents\github\addingcppgithub\addingcppgithub\addingcppgithub\addingcppgithub.cpp(14): error C4700: uninitialized local variable 'b' used
+  AddingCppGitHub.vcxproj -> C:\Users\Donald's Toy\Documents\GitHub\AddingCppGitHub\AddingCppGitHub\Debug\AddingCppGitHub.exe
+  AddingCppGitHub.vcxproj -> C:\Users\Donald's Toy\Documents\GitHub\AddingCppGitHub\AddingCppGitHub\Debug\AddingCppGitHub.pdb (Full PDB)

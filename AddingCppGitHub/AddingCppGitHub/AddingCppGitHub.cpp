@@ -11,16 +11,31 @@ int main()
 {
    int a;
    int b;
-   int c = a + b;
+   
 
    cout << "Please enter your first number: ";
    cin >> a;
    cout << "Please enter your second number: ";
    cin >> b;
    cout << "You have entered " << a << " and " << b << " to be added.";
-   cout << "\nYour total is " << c << ".\n";
+   
+   int c = a + b;// code needed to be added after the values of the variables were added through user input
+   cout << "\nYour total is " << c << ".\n\n\n";
+
+   // create your own number variables with out the input syntax
+   int numberA = 10;
+   int numberB = 5;
+   int numberC = numberA + numberB;
+
+   cout << "The first number is set to: " << numberA;
+   cout << "\nThe second number is set to: " << numberB;
+   cout << "\nAdd the two number together!";
+   cout << "\nThe numbers equal: " << numberC <<"\n";
+
 
    system("pause");
     return 0;
 }
+
+
 
